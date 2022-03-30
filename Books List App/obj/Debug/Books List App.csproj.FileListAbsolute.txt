@@ -1,0 +1,11 @@
+C:\Users\samson\source\repos\Books List App\Books List App\bin\Debug\Books List App.exe.config
+C:\Users\samson\source\repos\Books List App\Books List App\bin\Debug\Books List App.exe
+C:\Users\samson\source\repos\Books List App\Books List App\bin\Debug\Books List App.pdb
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books List App.csproj.AssemblyReference.cache
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books List App.csproj.SuggestedBindingRedirects.cache
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books_List_App.Form1.resources
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books_List_App.Properties.Resources.resources
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books List App.csproj.GenerateResource.cache
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books List App.csproj.CoreCompileInputs.cache
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books List App.exe
+C:\Users\samson\source\repos\Books List App\Books List App\obj\Debug\Books List App.pdb
